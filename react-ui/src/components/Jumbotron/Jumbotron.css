@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url("./nyskyline.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron h1 {
+  font-size: 52px;
+}
+
+.jumbotron h2 {
+  font-size: 36px;
+}
