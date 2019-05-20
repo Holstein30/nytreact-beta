@@ -4,7 +4,7 @@ React App that returns articles from the New York Time's API
 
 ## Live Website
 
-https://quiet-river-77612.herokuapp.com/
+https://nytreact-dale.herokuapp.com/
 
 ## Home
 
